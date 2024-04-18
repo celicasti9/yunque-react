@@ -23,13 +23,13 @@ function About1 () {
                 <div className="w-full lg:w-8/12 lg:pt-8">
                     <div className="grid md:grid-cols-2 sm:grid-cols-2 grid-cols-1 lg:gap-4 shadow-lg rounded-md">
                         <div className="p-2 pb-2 flex justify-center flex-col items-center">
-                            <img className="md:block hidden" src="https://scontent.fsju1-1.fna.fbcdn.net/v/t1.6435-9/117971861_10158718326894432_4805530864384379242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5srlIWy4QPgAX9h9AM9&_nc_ht=scontent.fsju1-1.fna&oh=00_AfASZ266Didz32aXdVfMzst5_rLOGlEKl6zG5L26B1JaEA&oe=66149FF5" alt="Alexa featured Img" />
-                            <img className="md:hidden block" src="https://scontent.fsju1-1.fna.fbcdn.net/v/t1.6435-9/117971861_10158718326894432_4805530864384379242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5srlIWy4QPgAX9h9AM9&_nc_ht=scontent.fsju1-1.fna&oh=00_AfASZ266Didz32aXdVfMzst5_rLOGlEKl6zG5L26B1JaEA&oe=66149FF5" alt="Alexa featured Img" />
+                            <img className="md:block hidden" src="https://entreprehub.com/public/yunque/nelly.jpg" alt="Nelly Carrion" />
+                            <img className="md:hidden block" src="https://entreprehub.com/public/yunque/nelly.jpg" alt="Nelly Carrion" />
                             <p className="font-medium text-xl leading-2 text-gray-800 mt-2">Nelly Carrion</p>
                         </div>
                         <div className="p-2 pb-2 flex justify-center flex-col items-center">
-                            <img className="md:block hidden" src="https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/385053960_746963090574407_5261593387724256772_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Dz7HK9e9tvAAX92-FfW&_nc_ht=scontent-iad3-1.xx&oh=00_AfAoRWfwzaz4uPxS_neB5ZULEUoEjoSiSPgq7xBSPKoVVw&oe=65F97279" alt="Olivia featured Img" />
-                            <img className="md:hidden block" src="https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/385053960_746963090574407_5261593387724256772_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Dz7HK9e9tvAAX92-FfW&_nc_ht=scontent-iad3-1.xx&oh=00_AfAoRWfwzaz4uPxS_neB5ZULEUoEjoSiSPgq7xBSPKoVVw&oe=65F97279" alt="Olivia featured Img" />
+                            <img className="md:block hidden" src="https://entreprehub.com/public/yunque/castillo.jpg" alt="Castillo La Cone" />
+                            <img className="md:hidden block" src="https://entreprehub.com/public/yunque/castillo.jpg" alt="Castillo La Cone" />
                             <p className="font-medium text-xl leading-2 text-gray-800 mt-2">Castillo La Cone</p>
                         </div>
                     </div>
