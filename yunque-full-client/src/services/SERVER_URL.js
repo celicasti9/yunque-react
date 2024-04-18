@@ -1,1 +1,1 @@
-export const SERVER_URL = 'https://yunque-react-server.vercel.app/'
+export const SERVER_URL = 'https://yunque-server.adaptable.app/'

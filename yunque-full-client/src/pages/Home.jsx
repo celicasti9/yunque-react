@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 
-const imgURL = "https://iili.io/JVmSGv1.md.png";
+const imgURL = "https://entreprehub.com/public/yunque/yunque-sin-fondo.png";
 
 function HomePage() {
 
@@ -39,7 +39,7 @@ function HomePage() {
               <div className="flex items-center gap-x-6">
                 <img
                   className="h-16 w-16 rounded-full"
-                  src="https://iili.io/J8WmADg.md.jpg"
+                  src="https://entreprehub.com/public/yunque/nelly.jpg"
                   alt="Nelly Carrion"
                 />
                 <div>
@@ -54,7 +54,7 @@ function HomePage() {
               <div className="flex items-center gap-x-6">
                 <img
                   className="h-16 w-16 rounded-full"
-                  src="https://iili.io/J8WmuOF.md.jpg"
+                  src="https://entreprehub.com/public/yunque/castillo.jpg"
                   alt="Castillo La Cone"
                 />
                 <div>
