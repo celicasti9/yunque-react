@@ -39,7 +39,7 @@ function HomePage() {
               <div className="flex items-center gap-x-6">
                 <img
                   className="h-16 w-16 rounded-full"
-                  src="../assets/images/nelly.jpg"
+                  src="https://iili.io/J8WmADg.md.jpg"
                   alt="Nelly Carrion"
                 />
                 <div>
@@ -54,7 +54,7 @@ function HomePage() {
               <div className="flex items-center gap-x-6">
                 <img
                   className="h-16 w-16 rounded-full"
-                  src="../assets/images/castillo.jpg"
+                  src="https://iili.io/J8WmuOF.md.jpg"
                   alt="Castillo La Cone"
                 />
                 <div>

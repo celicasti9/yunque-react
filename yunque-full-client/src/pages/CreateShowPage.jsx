@@ -2,7 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
-const API_URL = "http://localhost:4000";
+const API_URL = "https://yunque-react-server.vercel.app/";
 function CreateShowPage(props) {
   const [title, setTitle] = useState("");
   const [description, setDescription] = useState("");
